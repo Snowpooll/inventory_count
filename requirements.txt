@@ -1,0 +1,8 @@
+argparse
+opencv-python
+ultralytics
+collections-extended
+Pillow
+configparser
+requests
+
